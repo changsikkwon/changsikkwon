@@ -1,7 +1,7 @@
 <div align=center>
   
   
-[![Anurag’s github stats](https://github-readme-stats.vercel.app/api?username=changsikkwon)](https://github.com/anuraghazra/github-readme-stats)<br><br>
+[![Anurag’s github stats](https://github-readme-stats.vercel.app/api?username=changsikkwon&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)<br><br>
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs?username=changsikkwon&layout=compact&theme=dracula)](https://github.com/metleeha)
 
