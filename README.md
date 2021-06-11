@@ -1,6 +1,5 @@
-<div align=center>
-  
 ### Technical Stack:
+<div align=center>
 <img src="https://img.shields.io/badge/Python-3766AB?style=for-the-badge&logo=Python&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=Django&logoColor=white"/></a>
 <img alt="DjangoREST" src="https://img.shields.io/badge/DJANGO-REST-ff1709?style=for-the-badge&logo=django&logoColor=white&color=ff1709&labelColor=gray"/>
@@ -18,12 +17,8 @@
 <img src="https://img.shields.io/badge/Javascript-F7DF1E?style=for-the-badge&logo=JavaScript&logoColor=black"/></a>
 <img alt="React" src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB"/>
 <img alt="GraphQL" src="https://img.shields.io/badge/-GraphQL-E10098?style=for-the-badge&logo=graphql"/>
-<img alt="Apollo-GraphQL" src="https://img.shields.io/badge/-ApolloGraphQL-311C87?style=for-the-badge&logo=apollo-graphql"/>
-<br>
-<br>
-<br>
-  
-  
+<img alt="Apollo-GraphQL" src="https://img.shields.io/badge/-ApolloGraphQL-311C87?style=for-the-badge&logo=apollo-graphql"/><br><br><br>
+
 [![Anurag’s github stats](https://github-readme-stats.vercel.app/api?username=changsikkwon)](https://github.com/anuraghazra/github-readme-stats)<br><br>
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=changsikkwon)](https://github.com/anuraghazra/github-readme-stats)
