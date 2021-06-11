@@ -1,4 +1,4 @@
-<br><br><br><br><br>
+<br><br>
 ### Technical Stack:
 <div align=center>
 <img src="https://img.shields.io/badge/Python-3766AB?style=for-the-badge&logo=Python&logoColor=white"/></a>
