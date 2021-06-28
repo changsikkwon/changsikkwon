@@ -25,7 +25,7 @@
 <img alt="GraphQL" src="https://img.shields.io/badge/-GraphQL-E10098?style=for-the-badge&logo=graphql"/>
 <img alt="Apollo-GraphQL" src="https://img.shields.io/badge/-ApolloGraphQL-311C87?style=for-the-badge&logo=apollo-graphql"/><br><br><br>
 
-[![Anurag’s github stats](https://github-readme-stats.vercel.app/api?username=changsikkwon)](https://github.com/anuraghazra/github-readme-stats)<br><br>
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=changsikkwon&count_private=true)](https://github.com/anuraghazra/github-readme-stats)<br><br>
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=changsikkwon)](https://github.com/anuraghazra/github-readme-stats)
 
