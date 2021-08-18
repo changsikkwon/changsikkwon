@@ -1,7 +1,7 @@
 <br><br>
-<!-- ### Technical Stack:
+<!-- ### Technical Stack: -->
 <div align=center>
-<img src="https://img.shields.io/badge/Python-3766AB?style=for-the-badge&logo=Python&logoColor=white"/></a>
+<!-- <img src="https://img.shields.io/badge/Python-3766AB?style=for-the-badge&logo=Python&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=Django&logoColor=white"/></a>
 <img alt="DjangoREST" src="https://img.shields.io/badge/DJANGO-REST-ff1709?style=for-the-badge&logo=django&logoColor=white&color=ff1709&labelColor=gray"/>
 <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=Flask&logoColor=white"/></a>
@@ -29,7 +29,7 @@
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=changsikkwon&count_private=true)](https://github.com/anuraghazra/github-readme-stats)<br><br>
 
-<!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=changsikkwon)](https://github.com/anuraghazra/github-readme-stats) -->
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=changsikkwon)](https://github.com/anuraghazra/github-readme-stats)
 
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fchangsikkwon&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 
