@@ -33,7 +33,13 @@
 
 <!-- [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=changsikkwon&count_private=true)](https://github.com/anuraghazra/github-readme-stats)<br><br>  -->
 
-
+<a href="https://github.com/devxb/gitanimals">
+<img
+  src="https://render.gitanimals.org/farms/changsikkwon"
+  width="600"
+  height="300"
+/>
+</a>
 
 ![footer](https://capsule-render.vercel.app/api?section=footer&color=FFF8DC)
 
