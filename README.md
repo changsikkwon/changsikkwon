@@ -41,7 +41,7 @@
 />
 </a>
 
-![footer](https://capsule-render.vercel.app/api?section=footer&color=FFF8DC)
+<-- ![footer](https://capsule-render.vercel.app/api?section=footer&color=FFF8DC) -->
 
 </div>
 
